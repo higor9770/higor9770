@@ -5,7 +5,7 @@
 
 - 🔥 Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Senac PE (3/5)
 
-- 🔭 Estudando as Linguagens: HTML5 & CSS3, MySQL, Python, C, Java, Python (análise de dados)
+- 🔭 Estudando as Linguagens: HTML5 & CSS3, MySQL, Python, C, Java, Python (análise de dados), Power Bi
 
 - ▶️ 21 anos 
 
