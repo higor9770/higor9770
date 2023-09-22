@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h1 align="left"> Olá <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">, Meu nome é higor. Bem vindo ao meu github! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
+<h1 align="left"> Olá <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">, Meu nome é Higor. Bem vindo ao meu github! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
 
 - 🔥 Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Senac PE (4/5)
 
