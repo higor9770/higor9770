@@ -4,10 +4,9 @@
 <h1 align="left"> Olá <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">, Meu nome é Higor. Bem vindo ao meu github! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
 
 - 🔥 Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Senac PE (4/5)
+- ▶️ Ciência de Dados - UFMS (3/5)
 
 - 🔭 Estudando: HTML5 & CSS3, MySQL, Python, C, Java, Python (análise de dados), Power Bi
-
-- ▶️ 21 anos 
 
 - 💬 Contato: higorcabral.alves@gmail.com
 
