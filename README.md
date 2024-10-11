@@ -3,8 +3,8 @@
 
 <h1 align="left"> Olá <img src="https://media.giphy.com/media/OzhU5Yn4bTemY/giphy.gif" height="30px">, Meu nome é Higor! Bem vindo ao meu github! <img src="https://media.giphy.com/media/r2tPgJohxpKaXmiNJY/giphy.gif" height="30px"> <img src="https://media.giphy.com/media/7jCNGJRMhXVtu/giphy.gif" height="40px"> </h1>
 
-<h4>Este repositório foi criado com o intuito de organizar todas as minhas atividades acadêmicas e extracurriculares. Nele, você encontrará meus projetos e atividades em diferentes linguagens que fazem parte da minha trajetória universitária, incluindo projeto de extensão, trabalhos realizados na residência tecnológica e outras atividades de aprendizado.<br><br>
-Explore meus outros repositórios: <a href="https://roadmap.sh/java" target="_blank">Jornada de Aprendizado em Java</a><br></h4>
+Este repositório foi criado com o intuito de organizar todas as minhas atividades acadêmicas e extracurriculares. Nele, você encontrará meus projetos e atividades em diferentes linguagens que fazem parte da minha trajetória universitária, incluindo projeto de extensão, trabalhos realizados na residência tecnológica e outras atividades de aprendizado.<br><br>
+Explore meus outros repositórios: <a href="https://roadmap.sh/java" target="_blank">Jornada de Aprendizado em Java</a><br>
 
 
 - 🔥 Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Senac PE (5/5)
