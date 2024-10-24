@@ -6,6 +6,8 @@
 Este repositório foi criado com o intuito de organizar todas as minhas atividades acadêmicas e extracurriculares. Nele, você encontrará meus projetos e atividades em diferentes linguagens que fazem parte da minha trajetória universitária, incluindo projeto de extensão, trabalhos realizados na residência tecnológica e outras atividades de aprendizado.<br><br>
 Explore meus outros repositórios: <a href="https://github.com/FowlerAsch" target="_blank">Jornada de Aprendizado em Java</a><br>
 
+Meu linkedin: https://www.linkedin.com/in/higor-cabrall/
+
 
 - 🔥 Estudante de Análise e Desenvolvimento de Sistemas - Faculdade Senac PE (5/5)
 - ▶️ Ciência de Dados - UFMS (3/5)
